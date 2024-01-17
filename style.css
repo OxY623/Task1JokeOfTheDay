@@ -1,0 +1,28 @@
+body {
+    background-color: darkorange;
+}
+
+h1{
+    color: #06266F;
+    text-align: center;
+    font-size: 38px;
+}
+
+p{
+    color:#000000;
+    text-align: center;
+    font-size: 38px;
+}
+
+footer{
+    margin-top: 30px;
+    position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 80px;
+}
+
+footer > p{
+    color: #06266F;
+}
